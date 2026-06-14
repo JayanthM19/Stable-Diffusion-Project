@@ -1,0 +1,9 @@
+Prompt
+→ Tokenizer
+→ CLIP Embeddings
+→ Cross-Attention
+→ Latent Noise
+→ Scheduler
+→ UNet Denoising
+→ VAE Decoder
+→ Final Image

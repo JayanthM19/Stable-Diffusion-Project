@@ -1,0 +1,7 @@
+Image preprocessing standardized dataset dimensions.
+
+Normalization converted pixel ranges into training-friendly values.
+
+Caption tokenization prepared text prompts for embedding generation.
+
+Preprocessing pipelines are essential for stable diffusion training consistency.
