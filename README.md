@@ -1,6 +1,19 @@
 # Stable Diffusion ElevanceSkills Project
 
 ## Overview
+# Stable Diffusion and CGAN Internship Project
+
+This project explores modern generative AI techniques including Stable Diffusion, LoRA fine-tuning, embeddings, attention mechanisms, latent-space analysis, and Conditional GANs.
+
+## Completed Tasks
+
+- Task 1: Text-to-Image Pipeline
+- Task 2: Attention Mechanisms
+- Task 3: LoRA Fine-Tuning
+- Task 4: Dataset Analysis
+- Task 5: Embeddings
+- Task 6: Conditional GAN
+
 This repository contains my Generative AI  project focused on text-to-image generation using Stable Diffusion and related generative AI techniques.
 
 The project will progressively include:
